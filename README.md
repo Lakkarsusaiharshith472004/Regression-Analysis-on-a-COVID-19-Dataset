@@ -32,8 +32,11 @@ The project experiments with hyperparameter tuning to enhance predictive accurac
 # Usage
 # Setup
 Dependencies: Install the required libraries, including Pandas, NumPy, Matplotlib, and Scikit-learn.
+
 Data Loading: Load the COVID-19 dataset from the provided source.
+
 Model Training: Train regression models using the dataset.
+
 Prediction: Use the trained models to forecast future trends.
 
 # Customization
